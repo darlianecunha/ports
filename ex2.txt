@@ -1,0 +1,4 @@
+dados_2020 = pd.read_excel("data/mov portuaria2020.xlsx")
+dados_2021 = pd.read_excel("data/mov portuaria2021.xlsx")
+dados_2022 = pd.read_excel("data/mov portuaria2022.xlsx")
+dados_2023 = pd.read_excel("data/mov portuaria2023.xlsx")
